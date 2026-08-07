@@ -1,0 +1,3 @@
+theme: jekyll-theme-cayman
+title: 128g-gpu
+description: LLM serving on 128 GB unified-memory machines — DGX Spark (GB10) and Strix Halo (gfx1151)
